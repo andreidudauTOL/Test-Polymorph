@@ -1,0 +1,2 @@
+class Tablet < Electronic
+end

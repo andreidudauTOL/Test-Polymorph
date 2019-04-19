@@ -1,0 +1,8 @@
+development:
+  adapter:    postgresql
+  host:       localhost
+  database:   testapp_development
+  timeout:    5000
+  encoding:   utf8
+  port:       5433
+  pool:       5
